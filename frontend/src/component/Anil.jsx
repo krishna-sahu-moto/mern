@@ -4,7 +4,7 @@ import React from 'react';
 function Anil() {
   return (
     <div>
-      <h1>inn Page</h1>
+      <h1>Krishna is a stock trader he is earning more than 90000/day</h1>
       
     </div>
   );
