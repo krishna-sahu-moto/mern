@@ -6,7 +6,7 @@ function Lala() {
   return (
     <div>
       
-      <Link to="/Anil">jhansi oage</Link>
+      <Link to="/Anil">LNCT UNIVERSITY</Link>
       <Delete />
     </div>
   );
